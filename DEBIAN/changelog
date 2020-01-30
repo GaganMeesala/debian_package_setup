@@ -1,0 +1,5 @@
+livosetup (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Gagan Mesala <gagan.m@scanup.com>  Thu, 30 Jan 2020 04:48:19 -0800

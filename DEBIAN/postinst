@@ -1,0 +1,7 @@
+echo "Moving Files"
+
+mv ../usr/bin/gagan.sh ~/Desktop/
+
+echo "Moved Files"
+
+sh ~/Desktop/gagan.sh
